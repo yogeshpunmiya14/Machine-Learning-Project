@@ -1,4 +1,5 @@
 # Machine-Learning-Project
+
 # NYC Property Sales Analysis & Prediction
 📌 Project Overview
 This project analyzes real estate data from the New York City Department of Finance to understand property market trends and predict sale prices. Using a dataset of NYC property sales (nyc-property-sales.csv), the project involves extensive data cleaning, exploratory data analysis (EDA), feature engineering, and machine learning modeling to estimate property values.
